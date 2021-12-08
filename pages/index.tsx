@@ -7,7 +7,7 @@ export default function BasicModal() {
 
   return (
     <div>
-      <button id="openDialogButton" onClick={()=>{openDialog()}}>Open Dialog</button>
+      <button id="openDialogButton" onClick={()=>{openDialog()}}>Open APC</button>
     </div>
   );
 }
